@@ -33,7 +33,7 @@ public class largest_At_Twice {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int arr[] = { 1, 2, 3, 4, 8 };
+        int arr[] = { 1, 2, 3, 4 };
         System.out.println(twice(arr));
         sc.close();
     }

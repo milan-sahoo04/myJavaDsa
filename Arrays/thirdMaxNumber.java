@@ -43,7 +43,7 @@ class thirdMaxNumber {
     }
 
     public static void main(String[] args) {
-        int arr[] = { 3, 2, 7 };
+        int arr[] = { 2, 1 };
         System.out.println(third(arr));
     }
 }

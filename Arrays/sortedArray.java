@@ -23,7 +23,7 @@ public class sortedArray {
     }
 
     public static void main(String[] args) {
-        int num[] = { 2, 1, 2 };
+        int num[] = { 6, 1, 2 };
         System.out.println(isSorted(num));
     }
 }
